@@ -1,7 +1,12 @@
+1
+
+Introduction
+
 The quest to understand human learning has, in the past four decades,
 undergone dramatic change. Once a matter for philosophical argument, the
 workings of the mind and the brain are now subject to powerful research
 tools. From that research, a science of learning is emerging.
+
 In 1995, the U.S. Department of Education’s Office of Educational Research
 and Improvement (OERI) requested that the National Research Council (NRC)
 synthesize research on the science of learning. The resulting report, How
@@ -10,6 +15,7 @@ important implications for the design of curricula, instruction, assessments,
 and learning environments (National Research Council, 1999a). It suggests
 further that many existing school practices are inconsistent with what is
 known about effective learning.
+
 The purpose of this report is to ask how the insights from the research
 reviewed in How People Learn can be incorporated into classroom practice
 and to suggest a research and development agenda that would inform and
