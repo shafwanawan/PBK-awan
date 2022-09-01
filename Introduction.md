@@ -20,7 +20,7 @@ and learning environments (National Research Council, 1999a). It suggests
 further that many existing school practices are inconsistent with what is
 known about effective learning.
 
-Pada tahun 1995, U.S. Department of Education’s Office of Educational Research and Improvement (OERI) meminta agar National Research Council (NRC) mensintesis penelitian tentang ilmu pembelajaran. Laporan yang dihasilkan, How People Learn, meninjau literatur penelitian tentang pembelajaran manusia dan menyarankan implikasi penting untuk desain kurikulum, instruksi, penilaian, dan lingkungan belajar (National Research Council, 1999a). Ini menunjukkan lebih lanjut bahwa banyak praktik sekolah yang ada tidak konsisten dengan apa yang diketahui tentang pembelajaran yang efektif
+>Pada tahun 1995, U.S. Department of Education’s Office of Educational Research and Improvement (OERI) meminta agar National Research Council (NRC) mensintesis penelitian tentang ilmu pembelajaran. Laporan yang dihasilkan, How People Learn, meninjau literatur penelitian tentang pembelajaran manusia dan menyarankan implikasi penting untuk desain kurikulum, instruksi, penilaian, dan lingkungan belajar (National Research Council, 1999a). Ini menunjukkan lebih lanjut bahwa banyak praktik sekolah yang ada tidak konsisten dengan apa yang diketahui tentang pembelajaran yang efektif
 
 The purpose of this report is to ask how the insights from the research
 reviewed in How People Learn can be incorporated into classroom practice
