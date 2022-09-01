@@ -7,7 +7,7 @@ undergone dramatic change. Once a matter for philosophical argument, the
 workings of the mind and the brain are now subject to powerful research
 tools. From that research, a science of learning is emerging.
 
-Pencarian untuk memahami pembelajaran manusia telah, dalam empat dekade terakhir, mengalami perubahan dramatis. Dulu masalah argumen filosofis, cara kerja pikiran dan otak sekarang tunduk pada alat penelitian yang kuat. Dari penelitian itu, muncul ilmu belajar.
+_Pencarian untuk memahami pembelajaran manusia telah, dalam empat dekade terakhir, mengalami perubahan dramatis. Dulu masalah argumen filosofis, cara kerja pikiran dan otak sekarang tunduk pada alat penelitian yang kuat. Dari penelitian itu, muncul ilmu belajar._
 
 
 
