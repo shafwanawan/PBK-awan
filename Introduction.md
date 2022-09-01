@@ -1,6 +1,6 @@
-1
+# 1
 
-Introduction
+# Introduction
 
 The quest to understand human learning has, in the past four decades,
 undergone dramatic change. Once a matter for philosophical argument, the
